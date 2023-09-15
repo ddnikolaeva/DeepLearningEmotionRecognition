@@ -11,3 +11,5 @@ For this task we used TensorFlow and Keras tools for creating a Deep Learning mo
 
 The data consists of 48x48 pixel grayscale images of faces. 
 The training set consists of 28,709 examples and the public test set consists of 3,589 examples.
+
+In this repository you will find the dataset, source code, final neural network and project presentation in pdf format.
